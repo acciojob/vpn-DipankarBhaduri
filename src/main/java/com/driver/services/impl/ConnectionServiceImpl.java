@@ -13,7 +13,6 @@ import java.util.List;
 
 @Service
 public class ConnectionServiceImpl implements ConnectionService {
-
     @Autowired
     UserRepository userRepository2;
     @Autowired
